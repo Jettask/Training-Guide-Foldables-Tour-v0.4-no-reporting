@@ -57,7 +57,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Button_17.png": "img32.json",
 "dr/Button_29.png": "img32.json",
 "dr/Button_30.png": "img32.json",
-"dr/Button_31.png": "img32.json",
 "dr/Button_43.png": "img32.json",
 "dr/ContinueButton_28.png": "img32.json",
 "dr/si65255.png": "img32.json",
@@ -70,8 +69,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/si82539.png": "img32.json",
 "dr/si82605.png": "img32.json",
 "dr/si82632.png": "img32.json",
-"dr/si82749.png": "img32.json",
-"dr/si82783.png": "img32.json",
 "dr/si96138.png": "img32.json",
 "dr/si96151.png": "img32.json",
 "___":"___"};
